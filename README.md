@@ -1,1 +1,1 @@
-# OCR---Easyocr
+# OCR-Easyocr
